@@ -1,0 +1,7 @@
+# Cypher A-01
+- This is program takes the Affine Cypher method and modifies it to use a non standard alphabet
+
+### possible use cases include: 
+- Advanced encrypted messaging service
+- PassPhrase and two factor code encryption
+- ... tbd ...
