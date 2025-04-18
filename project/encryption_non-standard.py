@@ -63,8 +63,8 @@ class ModifiedAffineCipher:
 # Example usage
 if __name__ == "__main__":
     # Define keys (a must be coprime with m)
-    a = 7
-    b = 3
+    a = 11
+    b = 23
 
     cipher = ModifiedAffineCipher(a, b)
 
